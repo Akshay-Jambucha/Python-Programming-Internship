@@ -1,8 +1,8 @@
-# Python Programming Internship
+# 🐍 Python Programming Internship
 
-This repository contains all the tasks and projects completed during my Python Programming Internship at Maincrafts Technology.
+This repository contains all the tasks and projects completed during my **Python Programming Internship** at **Maincrafts Technology**.
 
-## Repository Structure
+## 📂 Repository Structure
 
 ```
 Python-Programming-Internship/
@@ -19,21 +19,34 @@ Python-Programming-Internship/
 │   ├── task3.py
 │   └── README.md
 │
+├── Task-4/
+│   ├── task4.py
+│   └── README.md
+│
+├── Task-5/
+│   ├── task5.py
+│   └── README.md
+│
+├── Task-6/
+│   ├── task6.py
+│   └── README.md
+│
 └── README.md
 ```
 
-## Completed Tasks
+## ✅ Completed Tasks
 
-- ✅ Task 1 – Core Python Challenges
+- ✅ Task 1 – Completed 
 - ⏳ Task 2 – Coming Soon
 - ⏳ Task 3 – Coming Soon
+- ⏳ Task 4 – Coming Soon
+- ⏳ Task 5 – Coming Soon
+- ⏳ Task 6 – Coming Soon
 
-## Technologies Used
+## 💻 Technologies Used
 
 - Python
 
-## Author
+## 👨‍💻 Author
 
 **Akshay Jambucha**
-
-GitHub: https://github.com/Akshay-Jambucha.
