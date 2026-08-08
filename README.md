@@ -37,7 +37,7 @@ Python-Programming-Internship/
 ## ✅ Completed Tasks
 
 - ✅ Task 1 – Completed 
-- ⏳ Task 2 – Coming Soon
+- ✅ Task 2 – Completed
 - ⏳ Task 3 – Coming Soon
 - ⏳ Task 4 – Coming Soon
 - ⏳ Task 5 – Coming Soon
