@@ -12,7 +12,7 @@ def add_expense(description, amount):
 def check_expenses():
     with open("expense.csv","r") as f:
         for i in csv.reader(f):
-            print(f"Item: {i[0]}, Amount: â‚¹{i[1]}")
+            print(f"Item: {i[0]}, Amount: ₹{i[1]}")
 
 # 3. Total Expenses - Calculate and display total spent.
 def total_expenses():
@@ -20,7 +20,7 @@ def total_expenses():
     with open("expense.csv","r") as f:
         for i in csv.reader(f):
             total +=int(i[1])
-    print(f"Total Expenses: â‚¹ {total}")
+    print(f"Total Expenses: ₹ {total}")
 
 
 print(": Welcome To Expense Tracker :\n")
@@ -34,7 +34,7 @@ while True :
 
     if i==1:
         description=input("Enter expense description :")
-        Amount=int(input("Enter amount: â‚¹"))
+        Amount=int(input("Enter amount: ₹"))
         add_expense(description, Amount)
     elif i==2:
         check_expenses()
